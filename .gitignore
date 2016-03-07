@@ -1,5 +1,6 @@
 Properties/
 HDF5dllStore/
+HDF5Captures/
 *.csproj
 
 ## Ignore Visual Studio temporary files, build results, and
