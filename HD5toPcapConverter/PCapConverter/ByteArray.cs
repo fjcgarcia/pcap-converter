@@ -31,7 +31,7 @@ using System.Collections;
  * A simple class to handle the properties and manage the usage of an unsigned 
  * char buffer.
  * 
- * @auther  Francisco J. Garcia
+ * @author  Francisco J. Garcia
  * @version 1.0 07/01/09
  */
 
